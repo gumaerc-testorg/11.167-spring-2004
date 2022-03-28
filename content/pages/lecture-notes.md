@@ -3,6 +3,7 @@ content_type: page
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
+parent_uid: null
 title: Lecture Notes
 uid: 21b756b3-18bb-3d15-a0a0-fdce2a9e3db8
 ---
@@ -29,7 +30,7 @@ I
 {{< tdopen >}}
 
 
-_Economic Development_ ([PDF]({{< baseurl >}}/resources/lec_1))
+_Economic Development_ ({{< resource_link 988f0543-0cca-cea0-ff0c-9350808b749b "PDF" >}})
 
 Firm Formation and Technological Capability Building
 
@@ -44,7 +45,7 @@ II
 {{< tdopen >}}
 
 
-_Theories and History of Underdevelopment_ ([PDF]({{< baseurl >}}/resources/lec_3))
+_Theories and History of Underdevelopment_ ({{< resource_link 84d18a5d-cdc4-72ca-de9e-c3a0c771b368 "PDF" >}})
 
 Resources
 
@@ -63,7 +64,7 @@ III
 {{< tdopen >}}
 
 
-_Industrialization_ ([PDF]({{< baseurl >}}/resources/lec_5))
+_Industrialization_ ({{< resource_link 8f4ea77b-339c-a7b7-d04f-8606b87b2c66 "PDF" >}})
 
 Education
 
@@ -82,7 +83,7 @@ Enterprise
 IV
 {{< tdclose >}}
 {{< tdopen >}}
-_Well-being and Development_ ([PDF]({{< baseurl >}}/resources/lec_7))
+_Well-being and Development_ ({{< resource_link 6d5fe2f8-623d-d4f3-dd84-cd6403e3e89e "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -91,7 +92,7 @@ _Well-being and Development_ ([PDF]({{< baseurl >}}/resources/lec_7))
 V
 {{< tdclose >}}
 {{< tdopen >}}
-_Conclusions_ ([PDF]({{< baseurl >}}/resources/lec_9))
+_Conclusions_ ({{< resource_link c222dc08-b810-d889-eccc-1979477057cc "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
