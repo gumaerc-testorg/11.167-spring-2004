@@ -1,8 +1,8 @@
 ---
 content_type: page
+description: This section provides topics for the five segments of the course.
 learning_resource_types: []
 ocw_type: CourseSection
-parent_uid: null
 title: Calendar
 uid: d3bd467b-2bb3-96ab-985a-ac4049a80e1d
 ---
