@@ -7,6 +7,7 @@ file: /courses/11-167-economic-development-technical-capabilities-spring-2004/c2
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: Lecture 9
 uid: c222dc08-b810-d889-eccc-1979477057cc
 ---
 Lecture notes on economic development, the role of advanced countries, the American empire, security economics, superpower economics, the role of Japan, the IMF, and the World Bank.
-

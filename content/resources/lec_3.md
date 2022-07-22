@@ -6,6 +6,7 @@ file: /courses/11-167-economic-development-technical-capabilities-spring-2004/84
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Lecture 3
 uid: 84d18a5d-cdc4-72ca-de9e-c3a0c771b368
 ---
 Lecture notes on economic development, 18th century ideas, post World War II, developing world economies, and the peasant export economies.
-

@@ -6,6 +6,7 @@ file: /courses/11-167-economic-development-technical-capabilities-spring-2004/98
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Lecture 1 '
 uid: 988f0543-0cca-cea0-ff0c-9350808b749b
 ---
 Lecture notes with an introduction to economic history, labor scarce countries, and labor abundant countries.
-
