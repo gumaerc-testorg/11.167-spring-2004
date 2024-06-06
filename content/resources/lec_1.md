@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture notes with an introduction to economic history, labor scarce
   countries, and labor abundant countries.
 file: /courses/11-167-economic-development-technical-capabilities-spring-2004/988f05430ccacea0ff0c9350808b749b_lec_1.pdf
+file_size: 29964
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
