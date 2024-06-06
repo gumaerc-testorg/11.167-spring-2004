@@ -4,6 +4,7 @@ description: Lecture notes on economic development, the role of advanced countri
   the American empire, security economics, superpower economics, the role of Japan,
   the IMF, and the World Bank.
 file: /courses/11-167-economic-development-technical-capabilities-spring-2004/c222dc08b810d889eccc1979477057cc_lec_9.pdf
+file_size: 72849
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
