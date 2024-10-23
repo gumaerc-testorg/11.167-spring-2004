@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on economic development, 18th century ideas, post World
   War II, developing world economies, and the peasant export economies.
-file: /courses/11-167-economic-development-technical-capabilities-spring-2004/84d18a5dcdc472cade9ec3a0c771b368_lec_3.pdf
+file: /ol-ocw-studio-app/courses/11-167-economic-development-technical-capabilities-spring-2004/84d18a5dcdc472cade9ec3a0c771b368_lec_3.pdf
 file_size: 38723
 file_type: application/pdf
 learning_resource_types:
